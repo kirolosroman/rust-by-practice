@@ -1,7 +1,7 @@
 # Rust By Practice (Learning Workspace) 🦀
 rust by practice book answers
 
-Welcome to my personal hands-on workspace for mastering the **Rust Programming Language**. This repository tracks my progress as I complete practical exercises, navigate compiler error messages, and internalize Rust's unique ownership, lifetime, and type system semantics.
+Welcome to my personal hands-on workspace for mastering the **Rust Programming Language** following the book "Rust By Practice". This repository tracks my progress as I complete practical exercises, navigate compiler error messages, and internalize Rust's unique ownership, lifetime, and type system semantics.
 
 The exercises are structured to follow an **error-driven learning loop**: analyzing compiler diagnostics (`rustc`), refactoring incorrect code, satisfying the borrow checker, and implementing optimal Rust design patterns.
 
