@@ -196,7 +196,6 @@ fn ch_5_2_11() {
     // You can't use r1 and r2 at the same time
     //println!("{}", r1);
 }
-
 pub fn calling_main() {
     ch_5_1_1();
     ch_5_1_2();
