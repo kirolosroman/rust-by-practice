@@ -13,12 +13,12 @@ The workspace is organized into chapters, each targeting a foundational or advan
 
 ```text
 rust-by-practice/
-├── Cargo.toml                   # Root configuration tracking dependencies/workspace
-├── README.md                    # This documentation file
-└── chapters/                    # Active exercise categories
-    ├── 03_variables/            # Variable bindings, scope, shadowing, and mutability
-    ├── 04_basic_types/          # Numbers, booleans, chars, functions, and statements
-    ├── 05_ownership_and_borrowing/            # Move/Copy semantics, scope drops, and allocations,References (&), mutable borrows (&mut), and rules
-    ├── 06_compound_types/       # Strings, Tuples, Arrays, Slices, Structs, and Enums
-    ├── 06_flow_control/         # If/else, loops, while, for, and pattern matching
-    ├── 06_flow_control/         # If/else, loops, while, for, and pattern matching
+├── Cargo.toml                          # Root configuration tracking dependencies/workspace
+├── README.md                           # This documentation file
+└── chapters/                           # Active exercise categories
+    ├── 03_variables/                   # Variable bindings, scope, shadowing, and mutability
+    ├── 04_basic_types/                 # Numbers, booleans, chars, functions, and statements
+    ├── 05_ownership_and_borrowing/     # Move/Copy semantics, scope drops, and allocations,References (&), mutable borrows (&mut), and rules
+    ├── 06_compound_types/              # Strings, Tuples, Arrays, Slices, Structs, and Enums
+    ├── 07_flow_control/                # If/else, loops, while, for, and pattern matching
+    ├── 08_pattern_matching/            # If/else, loops, while, for, and pattern matching
